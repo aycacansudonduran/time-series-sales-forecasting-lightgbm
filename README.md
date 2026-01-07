@@ -140,4 +140,5 @@ Bu çalışma, **Data Science / Machine Learning** pozisyonları için zaman ser
 * Prophet ve SARIMA ile ek karşılaştırmalar
 
 ---
+* Bu proje, zaman serisi problemlerinde feature engineering destekli makine öğrenmesi yaklaşımlarının gücünü göstermek amacıyla hazırlanmıştır.
 
